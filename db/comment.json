@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "author": "评论",
+    "content": "沙发",
+    "blog_id": 2
+  },
+  {
+    "id": 2,
+    "author": "评论 2",
+    "content": "板凳",
+    "blog_id": 2
+  },
+  {
+    "author": "uu",
+    "content": "沙发",
+    "blog_id": 1,
+    "created_time": 1502802814,
+    "id": 3
+  },
+  {
+    "author": "uu",
+    "content": "板凳",
+    "blog_id": 1,
+    "created_time": 1502802837,
+    "id": 4
+  }
+]

@@ -1,0 +1,19 @@
+.blog-new {
+    text-align: center;
+}
+img {
+    margin-left: auto;
+    margin-right:auto;
+    display:block;
+}
+.uu-blogs {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+.uu-blog-cell {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    outline: solid 1px lightblue;
+}
